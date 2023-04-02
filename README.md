@@ -1,3 +1,16 @@
+# about project 
+
+this project is a guess number game, which built by react
+at this project i used :
+1.sounds, gif and control them value by state management concept.
+2.random function for get the random number.
+
+# project demo
+
+
+https://user-images.githubusercontent.com/105562468/216139053-cf7f98c6-e12c-4dea-baa3-e99f63355949.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
