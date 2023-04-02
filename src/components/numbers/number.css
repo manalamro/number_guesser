@@ -24,7 +24,7 @@ top: 20px;
     display: flex;
     flex-direction: row;
     gap:70px;
-    margin-left: 520px;
+    margin-left:50%;
     font-size: larger;
     font-weight: bold;
     width: 260px;
