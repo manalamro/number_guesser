@@ -24,11 +24,11 @@ top: 20px;
     display: flex;
     flex-direction: row;
     gap:70px;
-    margin-left:50%;
+    margin-left:38%;
     font-size: larger;
     font-weight: bold;
     width: 260px;
-    padding-left:40px;
+    padding-left:43px;
     border-bottom: 4px solid black;
     border-radius: 10px;
     color: black;
@@ -42,5 +42,26 @@ img{
     width: 30vw;
     margin:40px;
     border-radius: 20px;
+
+}
+
+/* ================== Media Queries (medium devices) =============== */
+
+@media screen and (max-width:941px) {
+.row {
+
+    margin-left:32%;
+}
+
+
+}
+
+/* ================== Media Queries (medium devices) =============== */
+
+@media screen and (max-width:412px) {
+.row {
+    margin-left:22%;
+}
+
 
 }
